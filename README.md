@@ -11,7 +11,7 @@ En este proyecto nos desempeñamos como *`Data Analyst`*, llevando a cabo un an�
 
 Nuestro ***objetivo*** principal es generar información que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en los accidentes de tráfico. A través de nuestro trabajo, buscamos proporcionar datos significativos tanto a las autoridades gubernamentales como al Observatorio de Movilidad y Seguridad Vial (OMSV), contribuyendo así a mejorar la seguridad vial en nuestra comunidad. 
 
-***Además***, proporcionamos un análisis completo de los accidentes ocurridos entre los años 2016 y 2021, permitiendo distinguir entre aquellos de gravedad leve y grave.
+***Además***, proporcionamos un análisis completo de los accidentes ocurridos entre los años 2016 y 2021, permitiendo distinguir entre aquellos de gravedad leve, fatal y grave.
 
 ---
 # Estructura del repositorio
