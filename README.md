@@ -31,7 +31,7 @@ Esta carpeta incluye todos los dataset usados en el proyecto, a continuacion det
 
 Esta carpeta incluye imagenes usadas en todo el proyecto 
 
-`Notebooks:`
+`Notebooks y Etapas:`
 
 - [ETL](ETL.ipynb): Primer proceso llevado a cabo durante el proyecto, extrajimos, tratamos y luego cargamos los datos en archivos diferentes.
 - [EDA](EDA.ipynb): Segundo proceso llevado a cabo durante el proyecto, en este exploramos y analizamos los datos creando relaciones entre variables y extrayendo conclusiones. 
@@ -60,6 +60,8 @@ A lo largo del desarrollo del proyecto y análisis de los datos, se destacaron a
 <p align="center">
   <img src="images/victimasxhora.png" alt="Víctimas por Hora" />
 </p>
+
+Estos son solo algunos de los mas importantes hallazgos a lo largo del análisis. Podrás encontrar mayor información y mas detallada en el reporte escrito agregado en un libro aparte: [REPORTE](REPORTE.md)
 
 ---
 # Paginas consultadas:
@@ -94,3 +96,8 @@ A lo largo del desarrollo del proyecto y análisis de los datos, se destacaron a
 - [ReporteEscrito](REPORTE.md)
 - [DashboardInteractivo](https://www.novypro.com/project/proyecto-siniestros-viales-ncc-power-bi)
 - [LinkedIn](https://www.linkedin.com/in/catalina-castelblanco/)
+
+---
+
+Agradezco tu visita e interes en este segundo proyecto. Te invito a compartir opiniones o sugerencias en caso que las tengas a traves de alguno de mis medios de contacto mas arriba señalados o por mail: 
+nadyacatalina99@gmail.com
